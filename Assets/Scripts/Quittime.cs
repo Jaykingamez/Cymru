@@ -9,4 +9,6 @@ public class Quittime : MonoBehaviour {
         new WaitForSeconds(2f);
         Application.Quit();
     }
+
+
 }

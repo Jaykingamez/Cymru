@@ -61,9 +61,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Britain.cs" />
+    <Compile Include="Assets\Scripts\Disappear.cs" />
+    <Compile Include="Assets\Scripts\Enemybullet.cs" />
     <Compile Include="Assets\Scripts\followposition.cs" />
     <Compile Include="Assets\Scripts\Loading.cs" />
+    <Compile Include="Assets\Scripts\Over.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\PlayerBullet.cs" />
     <Compile Include="Assets\Scripts\Playtime.cs" />
     <Compile Include="Assets\Scripts\Quittime.cs" />
     <Compile Include="Assets\Scripts\touchedrightbutton.cs" />
