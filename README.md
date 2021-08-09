@@ -1,9 +1,11 @@
-# Cymru
+# Cymru - promoting welsh
 
-Copyright <2019> <Chan Si Jie>
+### Submission to [FOSSASIA Hackathon with UNESCO](https://fossasia-hackathon.devpost.com/)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Cymru seeks to promote Welsh. You play as Wales, and dominate the United Kingdom, maybe. Maybe you'll become relevant if people stopped focusing on Northern Ireland, Scotland and England. Poor Wales, you have lost your relevancy. 
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+#### Cael hwyl!
+
+![Wales](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/000/781/529/datas/medium.png)
+
